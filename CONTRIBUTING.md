@@ -6,14 +6,14 @@ We aim to collect prompts that are specific, structured, well-documented, and de
 
 ## How Can I Contribute?
 
-*   **Reporting Issues:** If you find a prompt that doesn't work as expected, is unclear, or could be improved, please [open an issue](https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME]/issues) using the "Bug Report" or "Improvement Suggestion" template.
-*   **Suggesting New Prompts/Categories:** Have an idea for a new prompt or a new category? [Open an issue](https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME]/issues) using the "New Prompt Idea" template to discuss it.
+*   **Reporting Issues:** If you find a prompt that doesn't work as expected, is unclear, or could be improved, please [open an issue](https://github.com/kahloncoder/Prompt-Collection/issues) using the "Bug Report" or "Improvement Suggestion" template.
+*   **Suggesting New Prompts/Categories:** Have an idea for a new prompt or a new category? [Open an issue](https://github.com/kahloncoder/Prompt-Collection/issues) using the "New Prompt Idea" template to discuss it.
 *   **Submitting New Prompts:** This is the primary way to contribute! Please follow the guidelines below.
 
 ## Submitting a Prompt (Pull Request Process)
 
 1.  **Fork the Repository:** Click the "Fork" button on the top right of the repository page.
-2.  **Clone Your Fork:** `git clone https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME].git`
+2.  **Clone Your Fork:** `git clone https://github.com/kahloncoder/Prompt-Collection.git`
 3.  **Create a Branch:** `git checkout -b feat/add-my-new-prompt` (Use a descriptive branch name, e.g., `feat/add-code-refactoring-prompt` or `fix/improve-paper-reviewer-notes`).
 4.  **Add Your Prompt:**
     *   Find the appropriate category directory under `prompts/`. If a suitable one doesn't exist, feel free to create a new directory with a clear, descriptive name (e.g., `prompts/data_visualization/`). Use lowercase and underscores for directory names.
