@@ -87,7 +87,7 @@ Do not say language with any legal risks or negative language.
 
 Here is the list in a markdown for you:
 
-```markdown
+
 ## Social Media Gemini Prompt Template for Energy Drink Campaign (2024-Ready!)
 
 **Prompt Components:**
